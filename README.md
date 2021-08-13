@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi Developers 👋
+[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/sakshi-halge-80147b204/
+<!-- [![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.aakash.me)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/3687251/aakash-) -->
 
 <!--
 **Sakshi-Halge/Sakshi-Halge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
